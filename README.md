@@ -18,15 +18,15 @@ Experienced with AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, and Linux
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/argo-cd/argo-cd-icon.svg"><img src="https://www.vectorlogo.zone/logos/argo-cd/argo-cd-icon.svg" alt="argocd" width="42" height="42" /></a>
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="42" height="42" /></a>
 
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a> <a target="_blank" href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github-actions" width="42" height="42" /></a> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
 
-<a target="_blank" href="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="42" height="42" /></a>
 
 </p>
 
@@ -43,14 +43,4 @@ Experienced with AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, and Linux
 <p>
 <a target="_blank" href="https://twitter.com/Nitin_bisht28"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/nitin-bisht-connect"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NitinBisht28&show_icons=true&locale=en&layout=compact" alt="NitinBisht28" />
-</p>
-
-<p>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=NitinBisht28" alt="NitinBisht28" />
-</a>
 </p>
