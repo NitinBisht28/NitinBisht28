@@ -39,7 +39,7 @@ MySQL · MongoDB
 
 <h3>💻 Languages & OS</h3>
 <p>
-Go · Java · Bash · Linux · Git
+Go · Java · Bash · Linux · Git · Python
 </p>
 
 <h2>📚 Currently Learning</h2>
